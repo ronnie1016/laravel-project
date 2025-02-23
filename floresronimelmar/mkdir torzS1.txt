@@ -1,0 +1,24 @@
+mkdir torzS1
+dir
+cd torzS1
+composer create-project laravel/laravel torzS1
+cd torzS1
+
+
+git clone link
+git cd file name sa git hub
+git add .
+
+git config --globa user.name"ronwin"
+git config --globa user.email"ronwin"
+
+git config --global --list
+
+git commit -m "new changes"
+
+git push origin main
+
+*refresh git hub
+
+
+
